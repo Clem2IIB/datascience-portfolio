@@ -1,0 +1,12 @@
+# Libraries for the notebooks (Python 3.13).
+# The Shakespeare chatbot has its own requirements.txt in its folder.
+pandas==3.0.6
+numpy==2.5.4
+scikit-learn==1.9.1
+scipy==1.18.1
+matplotlib==3.11.2
+seaborn==0.13.2
+plotly==7.1.0
+
+# To open and run the notebooks
+jupyter

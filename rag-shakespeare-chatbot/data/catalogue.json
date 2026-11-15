@@ -1,0 +1,2112 @@
+{
+  "works": [
+    {
+      "title": "The Sonnets",
+      "short_title": "SONNETS",
+      "type": "poetry"
+    },
+    {
+      "title": "All’s Well That Ends Well",
+      "short_title": "ALL S WELL THAT ENDS WELL",
+      "type": "play"
+    },
+    {
+      "title": "Antony and Cleopatra",
+      "short_title": "ANTONY AND CLEOPATRA",
+      "type": "play"
+    },
+    {
+      "title": "As You Like It",
+      "short_title": "AS YOU LIKE IT",
+      "type": "play"
+    },
+    {
+      "title": "The Comedy of Errors",
+      "short_title": "COMEDY OF ERRORS",
+      "type": "play"
+    },
+    {
+      "title": "The Tragedy of Coriolanus",
+      "short_title": "CORIOLANUS",
+      "type": "play"
+    },
+    {
+      "title": "Cymbeline",
+      "short_title": "CYMBELINE",
+      "type": "play"
+    },
+    {
+      "title": "The Tragedy of Hamlet, Prince of Denmark",
+      "short_title": "HAMLET",
+      "type": "play"
+    },
+    {
+      "title": "The First Part of King Henry the Fourth",
+      "short_title": "FIRST PART OF KING HENRY THE FOURTH",
+      "type": "play"
+    },
+    {
+      "title": "The Second Part of King Henry the Fourth",
+      "short_title": "SECOND PART OF KING HENRY THE FOURTH",
+      "type": "play"
+    },
+    {
+      "title": "The Life of King Henry V",
+      "short_title": "KING HENRY V",
+      "type": "play"
+    },
+    {
+      "title": "The First Part of Henry the Sixth",
+      "short_title": "FIRST PART OF HENRY THE SIXTH",
+      "type": "play"
+    },
+    {
+      "title": "The Second Part of King Henry the Sixth",
+      "short_title": "SECOND PART OF KING HENRY THE SIXTH",
+      "type": "play"
+    },
+    {
+      "title": "The Third Part of King Henry the Sixth",
+      "short_title": "THIRD PART OF KING HENRY THE SIXTH",
+      "type": "play"
+    },
+    {
+      "title": "King Henry the Eighth",
+      "short_title": "KING HENRY THE EIGHTH",
+      "type": "play"
+    },
+    {
+      "title": "King John",
+      "short_title": "KING JOHN",
+      "type": "play"
+    },
+    {
+      "title": "The Tragedy of Julius Caesar",
+      "short_title": "JULIUS CAESAR",
+      "type": "play"
+    },
+    {
+      "title": "The Tragedy of King Lear",
+      "short_title": "KING LEAR",
+      "type": "play"
+    },
+    {
+      "title": "Love’s Labour’s Lost",
+      "short_title": "LOVE S LABOUR S LOST",
+      "type": "play"
+    },
+    {
+      "title": "Macbeth",
+      "short_title": "MACBETH",
+      "type": "play"
+    },
+    {
+      "title": "Measure for Measure",
+      "short_title": "MEASURE FOR MEASURE",
+      "type": "play"
+    },
+    {
+      "title": "The Merchant of Venice",
+      "short_title": "MERCHANT OF VENICE",
+      "type": "play"
+    },
+    {
+      "title": "The Merry Wives of Windsor",
+      "short_title": "MERRY WIVES OF WINDSOR",
+      "type": "play"
+    },
+    {
+      "title": "A Midsummer Night’s Dream",
+      "short_title": "MIDSUMMER NIGHT S DREAM",
+      "type": "play"
+    },
+    {
+      "title": "Much Ado About Nothing",
+      "short_title": "MUCH ADO ABOUT NOTHING",
+      "type": "play"
+    },
+    {
+      "title": "Othello, the Moor of Venice",
+      "short_title": "OTHELLO",
+      "type": "play"
+    },
+    {
+      "title": "Pericles, Prince of Tyre",
+      "short_title": "PERICLES",
+      "type": "play"
+    },
+    {
+      "title": "King Richard the Second",
+      "short_title": "KING RICHARD THE SECOND",
+      "type": "play"
+    },
+    {
+      "title": "King Richard the Third",
+      "short_title": "KING RICHARD THE THIRD",
+      "type": "play"
+    },
+    {
+      "title": "The Tragedy of Romeo and Juliet",
+      "short_title": "ROMEO AND JULIET",
+      "type": "play"
+    },
+    {
+      "title": "The Taming of the Shrew",
+      "short_title": "TAMING OF THE SHREW",
+      "type": "play"
+    },
+    {
+      "title": "The Tempest",
+      "short_title": "TEMPEST",
+      "type": "play"
+    },
+    {
+      "title": "The Life of Timon of Athens",
+      "short_title": "TIMON OF ATHENS",
+      "type": "play"
+    },
+    {
+      "title": "The Tragedy of Titus Andronicus",
+      "short_title": "TITUS ANDRONICUS",
+      "type": "play"
+    },
+    {
+      "title": "The History of Troilus and Cressida",
+      "short_title": "TROILUS AND CRESSIDA",
+      "type": "play"
+    },
+    {
+      "title": "Twelfth Night: Or, What You Will",
+      "short_title": "TWELFTH NIGHT",
+      "type": "play"
+    },
+    {
+      "title": "The Two Gentlemen of Verona",
+      "short_title": "TWO GENTLEMEN OF VERONA",
+      "type": "play"
+    },
+    {
+      "title": "The Two Noble Kinsmen",
+      "short_title": "TWO NOBLE KINSMEN",
+      "type": "play"
+    },
+    {
+      "title": "The Winter’s Tale",
+      "short_title": "WINTER S TALE",
+      "type": "play"
+    },
+    {
+      "title": "A Lover’s Complaint",
+      "short_title": "LOVER S COMPLAINT",
+      "type": "poetry"
+    },
+    {
+      "title": "The Passionate Pilgrim",
+      "short_title": "PASSIONATE PILGRIM",
+      "type": "poetry"
+    },
+    {
+      "title": "The Phoenix and the Turtle",
+      "short_title": "PHOENIX AND THE TURTLE",
+      "type": "poetry"
+    },
+    {
+      "title": "The Rape of Lucrece",
+      "short_title": "RAPE OF LUCRECE",
+      "type": "poetry"
+    },
+    {
+      "title": "Venus and Adonis",
+      "short_title": "VENUS AND ADONIS",
+      "type": "poetry"
+    }
+  ],
+  "characters": {
+    "COUNTESS": [
+      "All’s Well That Ends Well",
+      "The First Part of Henry the Sixth"
+    ],
+    "DIANA": [
+      "All’s Well That Ends Well",
+      "Pericles, Prince of Tyre"
+    ],
+    "HELENA": [
+      "All’s Well That Ends Well",
+      "A Midsummer Night’s Dream"
+    ],
+    "KING OF FRANCE": [
+      "All’s Well That Ends Well"
+    ],
+    "MARIANA": [
+      "All’s Well That Ends Well",
+      "Measure for Measure"
+    ],
+    "LAFEW": [
+      "All’s Well That Ends Well"
+    ],
+    "BERTRAM": [
+      "All’s Well That Ends Well"
+    ],
+    "PAROLLES": [
+      "All’s Well That Ends Well"
+    ],
+    "DUKE OF FLORENCE": [
+      "All’s Well That Ends Well"
+    ],
+    "DIANA CAPILET": [
+      "All’s Well That Ends Well"
+    ],
+    "MENECRATES": [
+      "Antony and Cleopatra"
+    ],
+    "DEMETRIUS": [
+      "Antony and Cleopatra",
+      "A Midsummer Night’s Dream",
+      "The Tragedy of Titus Andronicus"
+    ],
+    "PROCULEIUS": [
+      "Antony and Cleopatra"
+    ],
+    "ALEXAS": [
+      "Antony and Cleopatra"
+    ],
+    "ENOBARBUS": [
+      "Antony and Cleopatra"
+    ],
+    "MARDIAN": [
+      "Antony and Cleopatra"
+    ],
+    "EGYPTIAN": [
+      "Antony and Cleopatra"
+    ],
+    "DIOMEDES": [
+      "Antony and Cleopatra",
+      "The History of Troilus and Cressida"
+    ],
+    "CANIDIUS": [
+      "Antony and Cleopatra"
+    ],
+    "CLEOPATRA": [
+      "Antony and Cleopatra"
+    ],
+    "IRAS": [
+      "Antony and Cleopatra"
+    ],
+    "PHILO": [
+      "Antony and Cleopatra"
+    ],
+    "MENAS": [
+      "Antony and Cleopatra"
+    ],
+    "DERCETUS": [
+      "Antony and Cleopatra"
+    ],
+    "MAECENAS": [
+      "Antony and Cleopatra"
+    ],
+    "DOLABELLA": [
+      "Antony and Cleopatra"
+    ],
+    "ANTONY": [
+      "Antony and Cleopatra",
+      "The Tragedy of Julius Caesar"
+    ],
+    "OCTAVIA": [
+      "Antony and Cleopatra"
+    ],
+    "SELEUCUS": [
+      "Antony and Cleopatra"
+    ],
+    "POMPEY": [
+      "Antony and Cleopatra",
+      "Measure for Measure"
+    ],
+    "SCARUS": [
+      "Antony and Cleopatra"
+    ],
+    "VARRIUS": [
+      "Antony and Cleopatra"
+    ],
+    "SILIUS": [
+      "Antony and Cleopatra"
+    ],
+    "GUARDSMAN": [
+      "Antony and Cleopatra"
+    ],
+    "SENTRY": [
+      "Antony and Cleopatra"
+    ],
+    "CHARMIAN": [
+      "Antony and Cleopatra"
+    ],
+    "VENTIDIUS": [
+      "Antony and Cleopatra",
+      "The Life of Timon of Athens"
+    ],
+    "EROS": [
+      "Antony and Cleopatra"
+    ],
+    "LEPIDUS": [
+      "Antony and Cleopatra",
+      "The Tragedy of Julius Caesar"
+    ],
+    "THIDIAS": [
+      "Antony and Cleopatra"
+    ],
+    "AGRIPPA": [
+      "Antony and Cleopatra"
+    ],
+    "TAURUS": [
+      "Antony and Cleopatra"
+    ],
+    "JAQUES DE BOYS": [
+      "As You Like It"
+    ],
+    "FREDERICK": [
+      "As You Like It"
+    ],
+    "AUDREY": [
+      "As You Like It"
+    ],
+    "OLIVER": [
+      "As You Like It"
+    ],
+    "CELIA": [
+      "As You Like It"
+    ],
+    "ROSALIND": [
+      "As You Like It"
+    ],
+    "DENNIS": [
+      "As You Like It"
+    ],
+    "ORLANDO": [
+      "As You Like It"
+    ],
+    "JAQUES": [
+      "As You Like It"
+    ],
+    "CHARLES": [
+      "As You Like It",
+      "The First Part of Henry the Sixth"
+    ],
+    "HYMEN": [
+      "As You Like It"
+    ],
+    "SILVIUS": [
+      "As You Like It"
+    ],
+    "CORIN": [
+      "As You Like It"
+    ],
+    "MARTEXT": [
+      "As You Like It"
+    ],
+    "LE BEAU": [
+      "As You Like It"
+    ],
+    "AMIENS": [
+      "As You Like It"
+    ],
+    "PHEBE": [
+      "As You Like It"
+    ],
+    "EGEON": [
+      "The Comedy of Errors"
+    ],
+    "ADRIANA": [
+      "The Comedy of Errors"
+    ],
+    "COURTESAN": [
+      "The Comedy of Errors"
+    ],
+    "ANTIPHOLUS OF EPHESUS": [
+      "The Comedy of Errors"
+    ],
+    "DROMIO OF SYRACUSE": [
+      "The Comedy of Errors"
+    ],
+    "DROMIO OF EPHESUS": [
+      "The Comedy of Errors"
+    ],
+    "BALTHASAR": [
+      "The Comedy of Errors",
+      "Much Ado About Nothing",
+      "The Tragedy of Romeo and Juliet"
+    ],
+    "ANGELO": [
+      "The Comedy of Errors",
+      "Measure for Measure"
+    ],
+    "ANTIPHOLUS OF SYRACUSE": [
+      "The Comedy of Errors"
+    ],
+    "LUCIANA": [
+      "The Comedy of Errors"
+    ],
+    "AUFIDIUS": [
+      "The Tragedy of Coriolanus"
+    ],
+    "VOLUMNIA": [
+      "The Tragedy of Coriolanus"
+    ],
+    "SICINIUS": [
+      "The Tragedy of Coriolanus"
+    ],
+    "VIRGILIA": [
+      "The Tragedy of Coriolanus"
+    ],
+    "AEDILE": [
+      "The Tragedy of Coriolanus"
+    ],
+    "MENENIUS": [
+      "The Tragedy of Coriolanus"
+    ],
+    "VALERIA": [
+      "The Tragedy of Coriolanus"
+    ],
+    "THIRD ROMAN": [
+      "The Tragedy of Coriolanus"
+    ],
+    "MARCIUS": [
+      "The Tragedy of Coriolanus"
+    ],
+    "COMINIUS": [
+      "The Tragedy of Coriolanus"
+    ],
+    "LARTIUS": [
+      "The Tragedy of Coriolanus"
+    ],
+    "FIRST ROMAN": [
+      "The Tragedy of Coriolanus"
+    ],
+    "CORIOLANUS": [
+      "The Tragedy of Coriolanus"
+    ],
+    "VOLSCE": [
+      "The Tragedy of Coriolanus"
+    ],
+    "SECOND ROMAN": [
+      "The Tragedy of Coriolanus"
+    ],
+    "BRUTUS": [
+      "The Tragedy of Coriolanus",
+      "The Tragedy of Julius Caesar"
+    ],
+    "CLOTEN": [
+      "Cymbeline"
+    ],
+    "IACHIMO": [
+      "Cymbeline"
+    ],
+    "BELARIUS": [
+      "Cymbeline"
+    ],
+    "CORNELIUS": [
+      "Cymbeline"
+    ],
+    "FRENCHMAN": [
+      "Cymbeline"
+    ],
+    "GUIDERIUS": [
+      "Cymbeline"
+    ],
+    "POSTHUMUS": [
+      "Cymbeline"
+    ],
+    "PHILARIO": [
+      "Cymbeline"
+    ],
+    "JUPITER": [
+      "Cymbeline"
+    ],
+    "IMOGEN": [
+      "Cymbeline"
+    ],
+    "ARVIRAGUS": [
+      "Cymbeline"
+    ],
+    "CYMBELINE": [
+      "Cymbeline"
+    ],
+    "PISANIO": [
+      "Cymbeline"
+    ],
+    "SICILIUS": [
+      "Cymbeline"
+    ],
+    "LUCIUS": [
+      "Cymbeline",
+      "The Tragedy of Julius Caesar",
+      "The Life of Timon of Athens",
+      "The Tragedy of Titus Andronicus"
+    ],
+    "VOLTEMAND": [
+      "The Tragedy of Hamlet, Prince of Denmark"
+    ],
+    "HAMLET": [
+      "The Tragedy of Hamlet, Prince of Denmark"
+    ],
+    "LUCIANUS": [
+      "The Tragedy of Hamlet, Prince of Denmark"
+    ],
+    "FORTINBRAS": [
+      "The Tragedy of Hamlet, Prince of Denmark"
+    ],
+    "REYNALDO": [
+      "The Tragedy of Hamlet, Prince of Denmark"
+    ],
+    "POLONIUS": [
+      "The Tragedy of Hamlet, Prince of Denmark"
+    ],
+    "OPHELIA": [
+      "The Tragedy of Hamlet, Prince of Denmark"
+    ],
+    "BARNARDO": [
+      "The Tragedy of Hamlet, Prince of Denmark"
+    ],
+    "GUILDENSTERN": [
+      "The Tragedy of Hamlet, Prince of Denmark"
+    ],
+    "HORATIO": [
+      "The Tragedy of Hamlet, Prince of Denmark"
+    ],
+    "ROSENCRANTZ": [
+      "The Tragedy of Hamlet, Prince of Denmark"
+    ],
+    "DANES": [
+      "The Tragedy of Hamlet, Prince of Denmark"
+    ],
+    "FRANCISCO": [
+      "The Tragedy of Hamlet, Prince of Denmark",
+      "The Tempest"
+    ],
+    "LAERTES": [
+      "The Tragedy of Hamlet, Prince of Denmark"
+    ],
+    "MARCELLUS": [
+      "The Tragedy of Hamlet, Prince of Denmark"
+    ],
+    "OSRIC": [
+      "The Tragedy of Hamlet, Prince of Denmark"
+    ],
+    "DOUGLAS": [
+      "The First Part of King Henry the Fourth"
+    ],
+    "VINTNER": [
+      "The First Part of King Henry the Fourth"
+    ],
+    "POINS": [
+      "The First Part of King Henry the Fourth",
+      "The Second Part of King Henry the Fourth"
+    ],
+    "FRANCIS": [
+      "The First Part of King Henry the Fourth",
+      "The Second Part of King Henry the Fourth"
+    ],
+    "HOTSPUR": [
+      "The First Part of King Henry the Fourth"
+    ],
+    "GADSHILL": [
+      "The First Part of King Henry the Fourth"
+    ],
+    "WORCESTER": [
+      "The First Part of King Henry the Fourth"
+    ],
+    "GLENDOWER": [
+      "The First Part of King Henry the Fourth"
+    ],
+    "FALSTAFF": [
+      "The First Part of King Henry the Fourth",
+      "The Second Part of King Henry the Fourth",
+      "The Merry Wives of Windsor"
+    ],
+    "MORTIMER": [
+      "The First Part of King Henry the Fourth",
+      "The First Part of Henry the Sixth"
+    ],
+    "VERNON": [
+      "The First Part of King Henry the Fourth",
+      "The First Part of Henry the Sixth"
+    ],
+    "GLEND": [
+      "The First Part of King Henry the Fourth"
+    ],
+    "BARDOLPH": [
+      "The First Part of King Henry the Fourth",
+      "The Second Part of King Henry the Fourth",
+      "The Life of King Henry V",
+      "The Merry Wives of Windsor"
+    ],
+    "PETO": [
+      "The First Part of King Henry the Fourth",
+      "The Second Part of King Henry the Fourth"
+    ],
+    "WESTMORELAND": [
+      "The First Part of King Henry the Fourth",
+      "The Second Part of King Henry the Fourth",
+      "The Third Part of King Henry the Sixth"
+    ],
+    "LANCASTER": [
+      "The First Part of King Henry the Fourth"
+    ],
+    "LADY PERCY": [
+      "The First Part of King Henry the Fourth",
+      "The Second Part of King Henry the Fourth"
+    ],
+    "NORTHUMBERLAND": [
+      "The First Part of King Henry the Fourth",
+      "The Second Part of King Henry the Fourth",
+      "The Third Part of King Henry the Sixth",
+      "King Richard the Second"
+    ],
+    "SIR MICHAEL": [
+      "The First Part of King Henry the Fourth"
+    ],
+    "MORTON": [
+      "The Second Part of King Henry the Fourth"
+    ],
+    "WARWICK": [
+      "The Second Part of King Henry the Fourth",
+      "The Life of King Henry V",
+      "The First Part of Henry the Sixth",
+      "The Second Part of King Henry the Sixth",
+      "The Third Part of King Henry the Sixth"
+    ],
+    "HASTINGS": [
+      "The Second Part of King Henry the Fourth",
+      "The Third Part of King Henry the Sixth",
+      "King Richard the Third"
+    ],
+    "COLVILLE": [
+      "The Second Part of King Henry the Fourth"
+    ],
+    "GOWER": [
+      "The Second Part of King Henry the Fourth",
+      "The Life of King Henry V",
+      "Pericles, Prince of Tyre"
+    ],
+    "MOWBRAY": [
+      "The Second Part of King Henry the Fourth",
+      "King Richard the Second"
+    ],
+    "DOLL": [
+      "The Second Part of King Henry the Fourth"
+    ],
+    "BULLCALF": [
+      "The Second Part of King Henry the Fourth"
+    ],
+    "CLARENCE": [
+      "The Second Part of King Henry the Fourth",
+      "The Third Part of King Henry the Sixth",
+      "King Richard the Third"
+    ],
+    "DAVY": [
+      "The Second Part of King Henry the Fourth"
+    ],
+    "LORD BARDOLPH": [
+      "The Second Part of King Henry the Fourth"
+    ],
+    "LADY NORTHUMBERLAND": [
+      "The Second Part of King Henry the Fourth"
+    ],
+    "HARCOURT": [
+      "The Second Part of King Henry the Fourth"
+    ],
+    "PRINCE HUMPHREY": [
+      "The Second Part of King Henry the Fourth"
+    ],
+    "DUKE OF BURGUNDY": [
+      "The Life of King Henry V"
+    ],
+    "YORK": [
+      "The Life of King Henry V",
+      "The First Part of Henry the Sixth",
+      "The Second Part of King Henry the Sixth",
+      "The Third Part of King Henry the Sixth",
+      "King Richard the Second",
+      "King Richard the Third"
+    ],
+    "LORD SCROOP": [
+      "The Life of King Henry V"
+    ],
+    "BURGUNDY": [
+      "The Life of King Henry V",
+      "The First Part of Henry the Sixth",
+      "The Tragedy of King Lear"
+    ],
+    "EXETER": [
+      "The Life of King Henry V",
+      "The First Part of Henry the Sixth",
+      "The Third Part of King Henry the Sixth"
+    ],
+    "WESTMORLAND": [
+      "The Life of King Henry V"
+    ],
+    "DAUPHIN": [
+      "The Life of King Henry V"
+    ],
+    "KING HENRY V": [
+      "The Life of King Henry V"
+    ],
+    "FRENCH KING": [
+      "The Life of King Henry V"
+    ],
+    "RAMBURES": [
+      "The Life of King Henry V"
+    ],
+    "ORLEANS": [
+      "The Life of King Henry V",
+      "The First Part of Henry the Sixth"
+    ],
+    "EARL OF SALISBURY": [
+      "The Life of King Henry V"
+    ],
+    "WILLIAMS": [
+      "The Life of King Henry V"
+    ],
+    "ERPINGHAM": [
+      "The Life of King Henry V"
+    ],
+    "SIR THOMAS GREY": [
+      "The Life of King Henry V"
+    ],
+    "DUKE OF BRITTANY": [
+      "The Life of King Henry V"
+    ],
+    "EARL OF WARWICK": [
+      "The Life of King Henry V"
+    ],
+    "ARCHBISHOP OF CANTERBURY": [
+      "The Life of King Henry V"
+    ],
+    "FLUELLEN": [
+      "The Life of King Henry V"
+    ],
+    "NYM": [
+      "The Life of King Henry V",
+      "The Merry Wives of Windsor"
+    ],
+    "GLOUCESTER": [
+      "The Life of King Henry V",
+      "The First Part of Henry the Sixth",
+      "The Second Part of King Henry the Sixth",
+      "The Third Part of King Henry the Sixth",
+      "The Tragedy of King Lear",
+      "King Richard the Third"
+    ],
+    "QUEEN ISABEL": [
+      "The Life of King Henry V"
+    ],
+    "KING HENRY": [
+      "The Life of King Henry V",
+      "The First Part of Henry the Sixth",
+      "The Second Part of King Henry the Sixth",
+      "The Third Part of King Henry the Sixth",
+      "King Henry the Eighth"
+    ],
+    "EARL OF CAMBRIDGE": [
+      "The Life of King Henry V"
+    ],
+    "DUKE OF BOURBON": [
+      "The Life of King Henry V"
+    ],
+    "DUKE OF ORLEANS": [
+      "The Life of King Henry V"
+    ],
+    "BEDFORD": [
+      "The Life of King Henry V",
+      "The First Part of Henry the Sixth"
+    ],
+    "SALISBURY": [
+      "The Life of King Henry V",
+      "The First Part of Henry the Sixth",
+      "The Second Part of King Henry the Sixth",
+      "King John",
+      "King Richard the Second"
+    ],
+    "JAMY": [
+      "The Life of King Henry V"
+    ],
+    "MACMORRIS": [
+      "The Life of King Henry V"
+    ],
+    "BOURBON": [
+      "The Life of King Henry V"
+    ],
+    "EARL OF WESTMORLAND": [
+      "The Life of King Henry V"
+    ],
+    "FRENCH SOLDIER": [
+      "The Life of King Henry V"
+    ],
+    "MONTJOY": [
+      "The Life of King Henry V"
+    ],
+    "CAMBRIDGE": [
+      "The Life of King Henry V"
+    ],
+    "EARL OF HUNTINGDON": [
+      "The Life of King Henry V"
+    ],
+    "KATHARINE": [
+      "The Life of King Henry V",
+      "King Henry the Eighth",
+      "Love’s Labour’s Lost"
+    ],
+    "CANTERBURY": [
+      "The Life of King Henry V"
+    ],
+    "SCROOP": [
+      "The Life of King Henry V",
+      "King Richard the Second"
+    ],
+    "MARGARET": [
+      "The First Part of Henry the Sixth",
+      "Much Ado About Nothing"
+    ],
+    "GARGRAVE": [
+      "The First Part of Henry the Sixth"
+    ],
+    "TALBOT": [
+      "The First Part of Henry the Sixth"
+    ],
+    "AUVERGNE": [
+      "The First Part of Henry the Sixth"
+    ],
+    "PUCELLE": [
+      "The First Part of Henry the Sixth"
+    ],
+    "SUFFOLK": [
+      "The First Part of Henry the Sixth",
+      "The Second Part of King Henry the Sixth",
+      "King Henry the Eighth"
+    ],
+    "REIGNIER": [
+      "The First Part of Henry the Sixth"
+    ],
+    "FASTOLFE": [
+      "The First Part of Henry the Sixth"
+    ],
+    "GLANSDALE": [
+      "The First Part of Henry the Sixth"
+    ],
+    "PLANTAGENET": [
+      "The First Part of Henry the Sixth"
+    ],
+    "LUCY": [
+      "The First Part of Henry the Sixth"
+    ],
+    "SOMERSET": [
+      "The First Part of Henry the Sixth",
+      "The Second Part of King Henry the Sixth",
+      "The Third Part of King Henry the Sixth"
+    ],
+    "WOODVILLE": [
+      "The First Part of Henry the Sixth"
+    ],
+    "WINCHESTER": [
+      "The First Part of Henry the Sixth"
+    ],
+    "BASSET": [
+      "The First Part of Henry the Sixth"
+    ],
+    "GENERAL OF THE FRENCH": [
+      "The First Part of Henry the Sixth"
+    ],
+    "ALENCON": [
+      "The First Part of Henry the Sixth"
+    ],
+    "IDEN": [
+      "The Second Part of King Henry the Sixth"
+    ],
+    "WILLIAM STAFFORD": [
+      "The Second Part of King Henry the Sixth"
+    ],
+    "HUME": [
+      "The Second Part of King Henry the Sixth"
+    ],
+    "YOUNG CLIFFORD": [
+      "The Second Part of King Henry the Sixth"
+    ],
+    "STANLEY": [
+      "The Second Part of King Henry the Sixth",
+      "King Richard the Third"
+    ],
+    "DICK": [
+      "The Second Part of King Henry the Sixth"
+    ],
+    "STAFFORD": [
+      "The Second Part of King Henry the Sixth"
+    ],
+    "CLIFFORD": [
+      "The Second Part of King Henry the Sixth",
+      "The Third Part of King Henry the Sixth"
+    ],
+    "MICHAEL": [
+      "The Second Part of King Henry the Sixth"
+    ],
+    "BOLINGBROKE": [
+      "The Second Part of King Henry the Sixth",
+      "King Richard the Second"
+    ],
+    "HORNER": [
+      "The Second Part of King Henry the Sixth"
+    ],
+    "WHITMORE": [
+      "The Second Part of King Henry the Sixth"
+    ],
+    "BUCKINGHAM": [
+      "The Second Part of King Henry the Sixth",
+      "King Henry the Eighth",
+      "King Richard the Third"
+    ],
+    "SIMPCOX": [
+      "The Second Part of King Henry the Sixth"
+    ],
+    "MARGERY JOURDAIN": [
+      "The Second Part of King Henry the Sixth"
+    ],
+    "TOWNSMAN": [
+      "The Second Part of King Henry the Sixth"
+    ],
+    "VAUX": [
+      "The Second Part of King Henry the Sixth",
+      "King Henry the Eighth"
+    ],
+    "PETER": [
+      "The Second Part of King Henry the Sixth",
+      "King John",
+      "Measure for Measure",
+      "The Tragedy of Romeo and Juliet",
+      "The Taming of the Shrew"
+    ],
+    "NORFOLK": [
+      "The Third Part of King Henry the Sixth",
+      "King Henry the Eighth",
+      "King Richard the Third"
+    ],
+    "OXFORD": [
+      "The Third Part of King Henry the Sixth",
+      "King Richard the Third"
+    ],
+    "QUEEN ELIZABETH": [
+      "The Third Part of King Henry the Sixth",
+      "King Richard the Third"
+    ],
+    "LEWIS": [
+      "The Third Part of King Henry the Sixth",
+      "King John"
+    ],
+    "MONTGOMERY": [
+      "The Third Part of King Henry the Sixth"
+    ],
+    "QUEEN MARGARET": [
+      "The Third Part of King Henry the Sixth",
+      "King Richard the Third"
+    ],
+    "SOMERVILLE": [
+      "The Third Part of King Henry the Sixth"
+    ],
+    "PRINCE OF WALES": [
+      "The Third Part of King Henry the Sixth"
+    ],
+    "RUTLAND": [
+      "The Third Part of King Henry the Sixth"
+    ],
+    "MONTAGUE": [
+      "The Third Part of King Henry the Sixth",
+      "The Tragedy of Romeo and Juliet"
+    ],
+    "GARDINER": [
+      "King Henry the Eighth"
+    ],
+    "GUILDFORD": [
+      "King Henry the Eighth"
+    ],
+    "ABERGAVENNY": [
+      "King Henry the Eighth"
+    ],
+    "CRANMER": [
+      "King Henry the Eighth"
+    ],
+    "SANDYS": [
+      "King Henry the Eighth"
+    ],
+    "DENNY": [
+      "King Henry the Eighth"
+    ],
+    "LOVELL": [
+      "King Henry the Eighth"
+    ],
+    "ANNE": [
+      "King Henry the Eighth",
+      "The Merry Wives of Windsor",
+      "King Richard the Third"
+    ],
+    "CAMPEIUS": [
+      "King Henry the Eighth"
+    ],
+    "LINCOLN": [
+      "King Henry the Eighth"
+    ],
+    "GRIFFITH": [
+      "King Henry the Eighth"
+    ],
+    "BRANDON": [
+      "King Henry the Eighth"
+    ],
+    "CAPUCIUS": [
+      "King Henry the Eighth"
+    ],
+    "QUEEN KATHARINE": [
+      "King Henry the Eighth"
+    ],
+    "CROMWELL": [
+      "King Henry the Eighth"
+    ],
+    "SURREY": [
+      "King Henry the Eighth",
+      "King Richard the Second",
+      "King Richard the Third"
+    ],
+    "WOLSEY": [
+      "King Henry the Eighth"
+    ],
+    "ROBERT": [
+      "King John"
+    ],
+    "CONSTANCE": [
+      "King John"
+    ],
+    "MELUN": [
+      "King John"
+    ],
+    "PEMBROKE": [
+      "King John"
+    ],
+    "CHATILLON": [
+      "King John"
+    ],
+    "KING PHILIP": [
+      "King John"
+    ],
+    "HUBERT": [
+      "King John"
+    ],
+    "ELINOR": [
+      "King John"
+    ],
+    "LADY FAULCONBRIDGE": [
+      "King John"
+    ],
+    "PANDULPH": [
+      "King John"
+    ],
+    "ESSEX": [
+      "King John"
+    ],
+    "FRENCH HERALD": [
+      "King John"
+    ],
+    "ENGLISH HERALD": [
+      "King John"
+    ],
+    "BIGOT": [
+      "King John"
+    ],
+    "ARTHUR": [
+      "King John"
+    ],
+    "GURNEY": [
+      "King John"
+    ],
+    "AUSTRIA": [
+      "King John"
+    ],
+    "PRINCE HENRY": [
+      "King John"
+    ],
+    "LIGARIUS": [
+      "The Tragedy of Julius Caesar"
+    ],
+    "VOLUMNIUS": [
+      "The Tragedy of Julius Caesar"
+    ],
+    "CASSIUS": [
+      "The Tragedy of Julius Caesar"
+    ],
+    "POPILIUS": [
+      "The Tragedy of Julius Caesar"
+    ],
+    "STRATO": [
+      "The Tragedy of Julius Caesar"
+    ],
+    "CLITUS": [
+      "The Tragedy of Julius Caesar"
+    ],
+    "MESSALA": [
+      "The Tragedy of Julius Caesar"
+    ],
+    "OCTAVIUS": [
+      "The Tragedy of Julius Caesar"
+    ],
+    "PUBLIUS": [
+      "The Tragedy of Julius Caesar",
+      "The Tragedy of Titus Andronicus"
+    ],
+    "FLAVIUS": [
+      "The Tragedy of Julius Caesar",
+      "The Life of Timon of Athens"
+    ],
+    "CALPHURNIA": [
+      "The Tragedy of Julius Caesar"
+    ],
+    "CINNA": [
+      "The Tragedy of Julius Caesar"
+    ],
+    "ARTEMIDORUS": [
+      "The Tragedy of Julius Caesar"
+    ],
+    "MARULLUS": [
+      "The Tragedy of Julius Caesar"
+    ],
+    "CLAUDIUS": [
+      "The Tragedy of Julius Caesar"
+    ],
+    "TREBONIUS": [
+      "The Tragedy of Julius Caesar"
+    ],
+    "TITINIUS": [
+      "The Tragedy of Julius Caesar"
+    ],
+    "DARDANIUS": [
+      "The Tragedy of Julius Caesar"
+    ],
+    "CATO": [
+      "The Tragedy of Julius Caesar"
+    ],
+    "PINDARUS": [
+      "The Tragedy of Julius Caesar"
+    ],
+    "CASCA": [
+      "The Tragedy of Julius Caesar"
+    ],
+    "CICERO": [
+      "The Tragedy of Julius Caesar"
+    ],
+    "PORTIA": [
+      "The Tragedy of Julius Caesar",
+      "The Merchant of Venice"
+    ],
+    "DECIUS": [
+      "The Tragedy of Julius Caesar"
+    ],
+    "LUCILIUS": [
+      "The Tragedy of Julius Caesar",
+      "The Life of Timon of Athens"
+    ],
+    "VARRO": [
+      "The Tragedy of Julius Caesar"
+    ],
+    "METELLUS": [
+      "The Tragedy of Julius Caesar"
+    ],
+    "KENT": [
+      "The Tragedy of King Lear"
+    ],
+    "CORNWALL": [
+      "The Tragedy of King Lear"
+    ],
+    "CORDELIA": [
+      "The Tragedy of King Lear"
+    ],
+    "GONERIL": [
+      "The Tragedy of King Lear"
+    ],
+    "REGAN": [
+      "The Tragedy of King Lear"
+    ],
+    "EDMUND": [
+      "The Tragedy of King Lear"
+    ],
+    "EDGAR": [
+      "The Tragedy of King Lear"
+    ],
+    "ALBANY": [
+      "The Tragedy of King Lear"
+    ],
+    "CURAN": [
+      "The Tragedy of King Lear"
+    ],
+    "OSWALD": [
+      "The Tragedy of King Lear"
+    ],
+    "PRINCESS OF FRANCE": [
+      "Love’s Labour’s Lost"
+    ],
+    "DON ADRIANO DE ARMADO": [
+      "Love’s Labour’s Lost"
+    ],
+    "LONGAVILLE": [
+      "Love’s Labour’s Lost"
+    ],
+    "BEROWNE": [
+      "Love’s Labour’s Lost"
+    ],
+    "NATHANIEL": [
+      "Love’s Labour’s Lost",
+      "The Taming of the Shrew"
+    ],
+    "MARCADE": [
+      "Love’s Labour’s Lost"
+    ],
+    "MARIA": [
+      "Love’s Labour’s Lost",
+      "Twelfth Night: Or, What You Will"
+    ],
+    "ROSALINE": [
+      "Love’s Labour’s Lost"
+    ],
+    "HOLOFERNES": [
+      "Love’s Labour’s Lost"
+    ],
+    "DUMAIN": [
+      "Love’s Labour’s Lost"
+    ],
+    "JAQUENETTA": [
+      "Love’s Labour’s Lost"
+    ],
+    "BOYET": [
+      "Love’s Labour’s Lost"
+    ],
+    "MACBETH": [
+      "Macbeth"
+    ],
+    "LADY MACDUFF": [
+      "Macbeth"
+    ],
+    "LENNOX": [
+      "Macbeth"
+    ],
+    "SIWARD": [
+      "Macbeth"
+    ],
+    "BANQUO": [
+      "Macbeth"
+    ],
+    "MALCOLM": [
+      "Macbeth"
+    ],
+    "ANGUS": [
+      "Macbeth"
+    ],
+    "SEYTON": [
+      "Macbeth"
+    ],
+    "DONALBAIN": [
+      "Macbeth"
+    ],
+    "LADY MACBETH": [
+      "Macbeth"
+    ],
+    "MACDUFF": [
+      "Macbeth"
+    ],
+    "MENTEITH": [
+      "Macbeth"
+    ],
+    "CAITHNESS": [
+      "Macbeth"
+    ],
+    "HECATE": [
+      "Macbeth"
+    ],
+    "YOUNG SIWARD": [
+      "Macbeth"
+    ],
+    "FLEANCE": [
+      "Macbeth"
+    ],
+    "DUNCAN": [
+      "Macbeth"
+    ],
+    "ESCALUS": [
+      "Measure for Measure"
+    ],
+    "BARNARDINE": [
+      "Measure for Measure"
+    ],
+    "LUCIO": [
+      "Measure for Measure"
+    ],
+    "ISABELLA": [
+      "Measure for Measure"
+    ],
+    "MRS": [
+      "Measure for Measure",
+      "The Merry Wives of Windsor"
+    ],
+    "ABHORSON": [
+      "Measure for Measure"
+    ],
+    "FRANCISCA": [
+      "Measure for Measure"
+    ],
+    "JULIET": [
+      "Measure for Measure",
+      "The Tragedy of Romeo and Juliet"
+    ],
+    "CLAUDIO": [
+      "Measure for Measure",
+      "Much Ado About Nothing"
+    ],
+    "GRATIANO": [
+      "The Merchant of Venice",
+      "Othello, the Moor of Venice"
+    ],
+    "ARRAGON": [
+      "The Merchant of Venice"
+    ],
+    "NERISSA": [
+      "The Merchant of Venice"
+    ],
+    "STEPHANO": [
+      "The Merchant of Venice",
+      "The Tempest"
+    ],
+    "BASSANIO": [
+      "The Merchant of Venice"
+    ],
+    "GOBBO": [
+      "The Merchant of Venice"
+    ],
+    "SALERIO": [
+      "The Merchant of Venice"
+    ],
+    "LORENZO": [
+      "The Merchant of Venice"
+    ],
+    "ANTONIO": [
+      "The Merchant of Venice",
+      "Much Ado About Nothing",
+      "The Tempest",
+      "Twelfth Night: Or, What You Will",
+      "The Two Gentlemen of Verona"
+    ],
+    "TUBAL": [
+      "The Merchant of Venice"
+    ],
+    "DUKE OF VENICE": [
+      "The Merchant of Venice"
+    ],
+    "SHYLOCK": [
+      "The Merchant of Venice"
+    ],
+    "PRINCE OF MOROCCO": [
+      "The Merchant of Venice"
+    ],
+    "BALTHAZAR": [
+      "The Merchant of Venice"
+    ],
+    "SALARINO": [
+      "The Merchant of Venice"
+    ],
+    "LAUNCELET": [
+      "The Merchant of Venice"
+    ],
+    "JESSICA": [
+      "The Merchant of Venice"
+    ],
+    "SOLANIO": [
+      "The Merchant of Venice"
+    ],
+    "LEONARDO": [
+      "The Merchant of Venice"
+    ],
+    "CAIUS": [
+      "The Merry Wives of Windsor"
+    ],
+    "RUGBY": [
+      "The Merry Wives of Windsor"
+    ],
+    "PUCK": [
+      "The Merry Wives of Windsor",
+      "A Midsummer Night’s Dream"
+    ],
+    "FENTON": [
+      "The Merry Wives of Windsor"
+    ],
+    "EVANS": [
+      "The Merry Wives of Windsor"
+    ],
+    "THESEUS": [
+      "A Midsummer Night’s Dream",
+      "The Two Noble Kinsmen"
+    ],
+    "MUSTARDSEED": [
+      "A Midsummer Night’s Dream"
+    ],
+    "HERMIA": [
+      "A Midsummer Night’s Dream"
+    ],
+    "COBWEB": [
+      "A Midsummer Night’s Dream"
+    ],
+    "QUINCE": [
+      "A Midsummer Night’s Dream"
+    ],
+    "TITANIA": [
+      "A Midsummer Night’s Dream"
+    ],
+    "EGEUS": [
+      "A Midsummer Night’s Dream"
+    ],
+    "OBERON": [
+      "A Midsummer Night’s Dream"
+    ],
+    "PYRAMUS": [
+      "A Midsummer Night’s Dream"
+    ],
+    "LYSANDER": [
+      "A Midsummer Night’s Dream"
+    ],
+    "FLUTE": [
+      "A Midsummer Night’s Dream"
+    ],
+    "HIPPOLYTA": [
+      "A Midsummer Night’s Dream"
+    ],
+    "THISBE": [
+      "A Midsummer Night’s Dream"
+    ],
+    "PEASEBLOSSOM": [
+      "A Midsummer Night’s Dream"
+    ],
+    "PHILOSTRATE": [
+      "A Midsummer Night’s Dream"
+    ],
+    "BORACHIO": [
+      "Much Ado About Nothing"
+    ],
+    "BENEDICK": [
+      "Much Ado About Nothing"
+    ],
+    "FRIAR FRANCIS": [
+      "Much Ado About Nothing"
+    ],
+    "HERO": [
+      "Much Ado About Nothing"
+    ],
+    "DON PEDRO": [
+      "Much Ado About Nothing"
+    ],
+    "DOGBERRY": [
+      "Much Ado About Nothing"
+    ],
+    "URSULA": [
+      "Much Ado About Nothing"
+    ],
+    "VERGES": [
+      "Much Ado About Nothing"
+    ],
+    "CONRADE": [
+      "Much Ado About Nothing"
+    ],
+    "LEONATO": [
+      "Much Ado About Nothing"
+    ],
+    "BEATRICE": [
+      "Much Ado About Nothing"
+    ],
+    "LODOVICO": [
+      "Othello, the Moor of Venice"
+    ],
+    "IAGO": [
+      "Othello, the Moor of Venice"
+    ],
+    "CASSIO": [
+      "Othello, the Moor of Venice"
+    ],
+    "OTHELLO": [
+      "Othello, the Moor of Venice"
+    ],
+    "MONTANO": [
+      "Othello, the Moor of Venice"
+    ],
+    "RODERIGO": [
+      "Othello, the Moor of Venice"
+    ],
+    "DESDEMONA": [
+      "Othello, the Moor of Venice"
+    ],
+    "BIANCA": [
+      "Othello, the Moor of Venice",
+      "The Taming of the Shrew"
+    ],
+    "EMILIA": [
+      "Othello, the Moor of Venice",
+      "The Two Noble Kinsmen",
+      "The Winter’s Tale"
+    ],
+    "BRABANTIO": [
+      "Othello, the Moor of Venice"
+    ],
+    "PHILEMON": [
+      "Pericles, Prince of Tyre"
+    ],
+    "SECOND FISHERMAN": [
+      "Pericles, Prince of Tyre"
+    ],
+    "HELICANUS": [
+      "Pericles, Prince of Tyre"
+    ],
+    "LEONINE": [
+      "Pericles, Prince of Tyre"
+    ],
+    "FIRST FISHERMAN": [
+      "Pericles, Prince of Tyre"
+    ],
+    "LYSIMACHUS": [
+      "Pericles, Prince of Tyre"
+    ],
+    "THAISA": [
+      "Pericles, Prince of Tyre"
+    ],
+    "SIMONIDES": [
+      "Pericles, Prince of Tyre"
+    ],
+    "CERIMON": [
+      "Pericles, Prince of Tyre"
+    ],
+    "BOULT": [
+      "Pericles, Prince of Tyre"
+    ],
+    "PERICLES": [
+      "Pericles, Prince of Tyre"
+    ],
+    "ANTIOCHUS": [
+      "Pericles, Prince of Tyre"
+    ],
+    "THALIARD": [
+      "Pericles, Prince of Tyre"
+    ],
+    "DIONYZA": [
+      "Pericles, Prince of Tyre"
+    ],
+    "LYCHORIDA": [
+      "Pericles, Prince of Tyre"
+    ],
+    "HELCANUS": [
+      "Pericles, Prince of Tyre"
+    ],
+    "CLEON": [
+      "Pericles, Prince of Tyre"
+    ],
+    "THIRD FISHERMAN": [
+      "Pericles, Prince of Tyre"
+    ],
+    "TYRIAN SAILOR": [
+      "Pericles, Prince of Tyre"
+    ],
+    "MARINA": [
+      "Pericles, Prince of Tyre"
+    ],
+    "ESCANES": [
+      "Pericles, Prince of Tyre"
+    ],
+    "CARLISLE": [
+      "King Richard the Second"
+    ],
+    "PIERCY": [
+      "King Richard the Second"
+    ],
+    "PERCY": [
+      "King Richard the Second"
+    ],
+    "WILLOUGHBY": [
+      "King Richard the Second"
+    ],
+    "BUSHY": [
+      "King Richard the Second"
+    ],
+    "FITZWATER": [
+      "King Richard the Second"
+    ],
+    "KING RICHARD": [
+      "King Richard the Second",
+      "King Richard the Third"
+    ],
+    "BERKELEY": [
+      "King Richard the Second"
+    ],
+    "BAGOT": [
+      "King Richard the Second"
+    ],
+    "AUMERLE": [
+      "King Richard the Second"
+    ],
+    "DERBY": [
+      "King Richard the Third"
+    ],
+    "LOVEL": [
+      "King Richard the Third"
+    ],
+    "VAUGHAN": [
+      "King Richard the Third"
+    ],
+    "BRAKENBURY": [
+      "King Richard the Third"
+    ],
+    "HERBERT": [
+      "King Richard the Third"
+    ],
+    "DORSET": [
+      "King Richard the Third"
+    ],
+    "CHRISTOPHER": [
+      "King Richard the Third"
+    ],
+    "TYRREL": [
+      "King Richard the Third"
+    ],
+    "RATCLIFF": [
+      "King Richard the Third"
+    ],
+    "CATESBY": [
+      "King Richard the Third"
+    ],
+    "GHOST OF VAUGHAN": [
+      "King Richard the Third"
+    ],
+    "RICHMOND": [
+      "King Richard the Third"
+    ],
+    "SAMPSON": [
+      "The Tragedy of Romeo and Juliet"
+    ],
+    "LADY CAPULET": [
+      "The Tragedy of Romeo and Juliet"
+    ],
+    "CAPULET S COUSIN": [
+      "The Tragedy of Romeo and Juliet"
+    ],
+    "LADY MONTAGUE": [
+      "The Tragedy of Romeo and Juliet"
+    ],
+    "TYBALT": [
+      "The Tragedy of Romeo and Juliet"
+    ],
+    "MERCUTIO": [
+      "The Tragedy of Romeo and Juliet"
+    ],
+    "BENVOLIO": [
+      "The Tragedy of Romeo and Juliet"
+    ],
+    "CAPULET": [
+      "The Tragedy of Romeo and Juliet"
+    ],
+    "GREGORY": [
+      "The Tragedy of Romeo and Juliet"
+    ],
+    "FRIAR LAWRENCE": [
+      "The Tragedy of Romeo and Juliet"
+    ],
+    "ROMEO": [
+      "The Tragedy of Romeo and Juliet"
+    ],
+    "CURTIS": [
+      "The Taming of the Shrew"
+    ],
+    "KATHERINA": [
+      "The Taming of the Shrew"
+    ],
+    "PHILIP": [
+      "The Taming of the Shrew"
+    ],
+    "GRUMIO": [
+      "The Taming of the Shrew"
+    ],
+    "HORTENSIO": [
+      "The Taming of the Shrew"
+    ],
+    "GREMIO": [
+      "The Taming of the Shrew"
+    ],
+    "BIONDELLO": [
+      "The Taming of the Shrew"
+    ],
+    "PETRUCHIO": [
+      "The Taming of the Shrew"
+    ],
+    "NICHOLAS": [
+      "The Taming of the Shrew"
+    ],
+    "JOSEPH": [
+      "The Taming of the Shrew"
+    ],
+    "LUCENTIO": [
+      "The Taming of the Shrew"
+    ],
+    "BAPTISTA": [
+      "The Taming of the Shrew"
+    ],
+    "TRANIO": [
+      "The Taming of the Shrew"
+    ],
+    "VINCENTIO": [
+      "The Taming of the Shrew"
+    ],
+    "CALIBAN": [
+      "The Tempest"
+    ],
+    "ARIEL": [
+      "The Tempest"
+    ],
+    "TRINCULO": [
+      "The Tempest"
+    ],
+    "SEBASTIAN": [
+      "The Tempest",
+      "Twelfth Night: Or, What You Will"
+    ],
+    "PROSPERO": [
+      "The Tempest"
+    ],
+    "ARIEL S SONG": [
+      "The Tempest"
+    ],
+    "ADRIAN": [
+      "The Tempest"
+    ],
+    "IRIS": [
+      "The Tempest"
+    ],
+    "CERES": [
+      "The Tempest"
+    ],
+    "ALONSO": [
+      "The Tempest"
+    ],
+    "FERDINAND": [
+      "The Tempest"
+    ],
+    "MIRANDA": [
+      "The Tempest"
+    ],
+    "GONZALO": [
+      "The Tempest"
+    ],
+    "VARRO S SERVANT": [
+      "The Life of Timon of Athens"
+    ],
+    "PHRYNIA AND TIMANDRA": [
+      "The Life of Timon of Athens"
+    ],
+    "THIRD BANDIT": [
+      "The Life of Timon of Athens"
+    ],
+    "TITUS": [
+      "The Life of Timon of Athens",
+      "The Tragedy of Titus Andronicus"
+    ],
+    "BANDITTI": [
+      "The Life of Timon of Athens"
+    ],
+    "OLD ATHENIAN": [
+      "The Life of Timon of Athens"
+    ],
+    "TIMON": [
+      "The Life of Timon of Athens"
+    ],
+    "BOTH VARRO S SERVANTS": [
+      "The Life of Timon of Athens"
+    ],
+    "PHRYNIA": [
+      "The Life of Timon of Athens"
+    ],
+    "CAPHIS": [
+      "The Life of Timon of Athens"
+    ],
+    "FLAMINIUS": [
+      "The Life of Timon of Athens"
+    ],
+    "HORTENSIUS": [
+      "The Life of Timon of Athens"
+    ],
+    "FIRST BANDIT": [
+      "The Life of Timon of Athens"
+    ],
+    "SERVILIUS": [
+      "The Life of Timon of Athens"
+    ],
+    "LUCULLIUS": [
+      "The Life of Timon of Athens"
+    ],
+    "LUCIUS SERVANT": [
+      "The Life of Timon of Athens"
+    ],
+    "LUCULLUS": [
+      "The Life of Timon of Athens"
+    ],
+    "FIRST VARRO S SERVANT": [
+      "The Life of Timon of Athens"
+    ],
+    "ALCIBIADES": [
+      "The Life of Timon of Athens"
+    ],
+    "SEMPRONIUS": [
+      "The Life of Timon of Athens"
+    ],
+    "SECOND VARRO S SERVANT": [
+      "The Life of Timon of Athens"
+    ],
+    "ISIDORE S SERVANT": [
+      "The Life of Timon of Athens"
+    ],
+    "TIMANDRA": [
+      "The Life of Timon of Athens"
+    ],
+    "PHILOTUS": [
+      "The Life of Timon of Athens"
+    ],
+    "SECOND BANDIT": [
+      "The Life of Timon of Athens"
+    ],
+    "APEMANTUS": [
+      "The Life of Timon of Athens"
+    ],
+    "ALL THE GOTHS": [
+      "The Tragedy of Titus Andronicus"
+    ],
+    "FIRST GOTH": [
+      "The Tragedy of Titus Andronicus"
+    ],
+    "LAVINIA": [
+      "The Tragedy of Titus Andronicus"
+    ],
+    "GOTH": [
+      "The Tragedy of Titus Andronicus"
+    ],
+    "MARTIUS": [
+      "The Tragedy of Titus Andronicus"
+    ],
+    "MUTIUS": [
+      "The Tragedy of Titus Andronicus"
+    ],
+    "SATURNINUS": [
+      "The Tragedy of Titus Andronicus"
+    ],
+    "CHIRON": [
+      "The Tragedy of Titus Andronicus"
+    ],
+    "SECOND GOTH": [
+      "The Tragedy of Titus Andronicus"
+    ],
+    "MARCUS": [
+      "The Tragedy of Titus Andronicus"
+    ],
+    "AARON": [
+      "The Tragedy of Titus Andronicus"
+    ],
+    "TAMORA": [
+      "The Tragedy of Titus Andronicus"
+    ],
+    "BASSIANUS": [
+      "The Tragedy of Titus Andronicus"
+    ],
+    "AEMILIUS": [
+      "The Tragedy of Titus Andronicus"
+    ],
+    "QUINTUS": [
+      "The Tragedy of Titus Andronicus"
+    ],
+    "ULYSSES": [
+      "The History of Troilus and Cressida"
+    ],
+    "MARGARELON": [
+      "The History of Troilus and Cressida"
+    ],
+    "TROILUS": [
+      "The History of Troilus and Cressida"
+    ],
+    "PATROCLUS": [
+      "The History of Troilus and Cressida"
+    ],
+    "ACHILLES": [
+      "The History of Troilus and Cressida"
+    ],
+    "HECTOR": [
+      "The History of Troilus and Cressida"
+    ],
+    "HELENUS": [
+      "The History of Troilus and Cressida"
+    ],
+    "MYRMIDON": [
+      "The History of Troilus and Cressida"
+    ],
+    "CRESSIDA": [
+      "The History of Troilus and Cressida"
+    ],
+    "CALCHAS": [
+      "The History of Troilus and Cressida"
+    ],
+    "PRIAM": [
+      "The History of Troilus and Cressida"
+    ],
+    "NESTOR": [
+      "The History of Troilus and Cressida"
+    ],
+    "ANDROMACHE": [
+      "The History of Troilus and Cressida"
+    ],
+    "PANDARUS": [
+      "The History of Troilus and Cressida"
+    ],
+    "MENELAUS": [
+      "The History of Troilus and Cressida"
+    ],
+    "AJAX": [
+      "The History of Troilus and Cressida"
+    ],
+    "DEIPHOBUS": [
+      "The History of Troilus and Cressida"
+    ],
+    "AGAMEMNON": [
+      "The History of Troilus and Cressida"
+    ],
+    "AENEAS": [
+      "The History of Troilus and Cressida"
+    ],
+    "CASSANDRA": [
+      "The History of Troilus and Cressida"
+    ],
+    "THERSITES": [
+      "The History of Troilus and Cressida"
+    ],
+    "ALEXANDER": [
+      "The History of Troilus and Cressida"
+    ],
+    "VIOLA": [
+      "Twelfth Night: Or, What You Will"
+    ],
+    "SIR ANDREW": [
+      "Twelfth Night: Or, What You Will"
+    ],
+    "MALVOLIO": [
+      "Twelfth Night: Or, What You Will"
+    ],
+    "VALENTINE": [
+      "Twelfth Night: Or, What You Will",
+      "The Two Gentlemen of Verona"
+    ],
+    "AGUECHEEK": [
+      "Twelfth Night: Or, What You Will"
+    ],
+    "SIR TOBY": [
+      "Twelfth Night: Or, What You Will"
+    ],
+    "FABIAN": [
+      "Twelfth Night: Or, What You Will"
+    ],
+    "SIR ANDREW AGUECHEEK": [
+      "Twelfth Night: Or, What You Will"
+    ],
+    "OLIVIA": [
+      "Twelfth Night: Or, What You Will"
+    ],
+    "CURIO": [
+      "Twelfth Night: Or, What You Will"
+    ],
+    "PANTHINO": [
+      "The Two Gentlemen of Verona"
+    ],
+    "EGLAMOUR": [
+      "The Two Gentlemen of Verona"
+    ],
+    "THURIO": [
+      "The Two Gentlemen of Verona"
+    ],
+    "SILVIA": [
+      "The Two Gentlemen of Verona"
+    ],
+    "LUCETTA": [
+      "The Two Gentlemen of Verona"
+    ],
+    "LAUNCE": [
+      "The Two Gentlemen of Verona"
+    ],
+    "PROTEUS": [
+      "The Two Gentlemen of Verona"
+    ],
+    "JULIA": [
+      "The Two Gentlemen of Verona"
+    ],
+    "BAVIAN": [
+      "The Two Noble Kinsmen"
+    ],
+    "ARCITE": [
+      "The Two Noble Kinsmen"
+    ],
+    "VALERIUS": [
+      "The Two Noble Kinsmen"
+    ],
+    "IAILOR": [
+      "The Two Noble Kinsmen"
+    ],
+    "PERITHOUS": [
+      "The Two Noble Kinsmen"
+    ],
+    "NEL": [
+      "The Two Noble Kinsmen"
+    ],
+    "HIPPOLITA": [
+      "The Two Noble Kinsmen"
+    ],
+    "PALAMON": [
+      "The Two Noble Kinsmen"
+    ],
+    "PAULINA": [
+      "The Winter’s Tale"
+    ],
+    "AUTOLYCUS": [
+      "The Winter’s Tale"
+    ],
+    "CAMILLO": [
+      "The Winter’s Tale"
+    ],
+    "POLIXENES": [
+      "The Winter’s Tale"
+    ],
+    "DORCAS": [
+      "The Winter’s Tale"
+    ],
+    "MAMILLIUS": [
+      "The Winter’s Tale"
+    ],
+    "DION": [
+      "The Winter’s Tale"
+    ],
+    "PERDITA": [
+      "The Winter’s Tale"
+    ],
+    "HERMIONE": [
+      "The Winter’s Tale"
+    ],
+    "MOPSA": [
+      "The Winter’s Tale"
+    ],
+    "ANTIGONUS": [
+      "The Winter’s Tale"
+    ],
+    "LEONTES": [
+      "The Winter’s Tale"
+    ],
+    "ARCHIDAMUS": [
+      "The Winter’s Tale"
+    ],
+    "FLORIZEL": [
+      "The Winter’s Tale"
+    ]
+  }
+}

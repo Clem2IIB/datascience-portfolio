@@ -1,0 +1,16 @@
+# Python environment and caches
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+
+# Local copies of the notebooks
+.backups/
+
+# API keys (the chatbot reads its key from .env)
+.env
+
+# Personal course notes, kept private
+course-notes/
