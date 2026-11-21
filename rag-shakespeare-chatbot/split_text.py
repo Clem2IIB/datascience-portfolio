@@ -268,7 +268,43 @@ def chunk_text(text):
         else:
             final_chunks.extend(cut_long_chunk(chunk))
 
+    # only plays have speakers: they are the works with acts, in the poems the capital lines are titles or numbers
+    if ACT_PATTERN.search(text):
+        final_chunks = add_missing_speakers(final_chunks)
+
     return final_chunks
+
+
+def add_missing_speakers(chunks):
+    """
+    Adds the name of the last speaker at the start of a chunk that has no speaker name
+    A long speech is sometimes split by a stage direction ("[_Laying Paris in the monument._]"), so its end
+    becomes a chunk without the name of who speaks, which the search and the LLM cannot link to the character
+
+    Args:
+        chunks (list[str]): the chunks of one work, in the order of the text
+
+    Returns:
+        list[str]: the same chunks, with the speaker name added where it was missing
+    """
+    chunks_with_speakers = []
+    last_speaker = "" # name of the last character who spoke, like "ROMEO"
+    for chunk in chunks:
+        speakers = SPEAKER_PATTERN.findall(chunk)
+        headers = ACT_PATTERN.findall(chunk) + SCENE_PATTERN.findall(chunk)
+
+        # no speaker and no new act or scene: the chunk continues the speech of the last speaker
+        if not speakers and not headers and last_speaker:
+            chunk = last_speaker + ".\n" + chunk
+        chunks_with_speakers.append(chunk)
+
+        # remember who speaks last, a new act or scene without any speaker starts with nobody speaking
+        if speakers:
+            last_speaker = speakers[-1].strip()
+        elif headers:
+            last_speaker = ""
+
+    return chunks_with_speakers
 
 """
 # previous technique for splitting the document with overlap, but we leaned towards a more dynamic approach based on natural breaks in the text (double newlines) to better preserve context and metadata

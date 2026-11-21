@@ -27,7 +27,7 @@ AUTO = "Auto (detect the play)" # sidebar choices besides the list of works
 ALL_WORKS = "All works"
 MAX_WORKS_PER_NAME = 3 # a name found in more works than this ("KING", "MESSENGER") does not tell which play the question is about
 MAX_CHUNKS_PER_WORK = 2 # when searching all works, keep at most this many chunks per work so a broad question gets several works
-N_CANDIDATES = 30 # number of chunks each search (semantic and BM25) proposes before they are merged
+N_CANDIDATES = 50 # number of chunks each search (semantic and BM25) proposes before they are merged
 RRF_K = 60 # constant of the Reciprocal Rank Fusion formula 1 / (k + rank), 60 is the usual value
 FOLLOW_UP_WORDS = ["HE", "SHE", "HIM", "HER", "HIS", "THEY", "THEM", "THEIR", "IT", "NEXT", "THY"] # words of a question that continues the previous one
 
@@ -131,17 +131,17 @@ for chunk_id in chunk_ids:
 bm25 = BM25Okapi(tokenized_chunks) # set up the BM25 index of all the chunks, used for the lexical search
 
 
-def search_chunks(user_query, works=None, n_chunks=8, method="hybrid", max_per_work=MAX_CHUNKS_PER_WORK):
+def search_chunks(user_query, works=None, n_chunks=12, method="hybrid", max_per_work=MAX_CHUNKS_PER_WORK):
     """
     Retrieves the most relevant chunks for a given query with a hybrid search:
     a semantic search with the embeddings in ChromaDB (finds passages with the same meaning)
-    and a lexical search with BM25 (finds passages with the same rare words: names, quotes),
+    and a lexical search with BM25 (finds passages with the same rare words, like the words of a quote),
     merged with Reciprocal Rank Fusion: a chunk ranked high in one or both searches comes first
 
     Args:
         user_query (str): question asked by the user
         works (list[str]): titles of the works to search in, all works if empty
-        n_chunks (int): Number of chunks to retrieve. Defaults to 8
+        n_chunks (int): Number of chunks to retrieve. Defaults to 12
         method (str): "hybrid", or "semantic" / "lexical" to use one search alone (used in rag_evaluation.ipynb)
         max_per_work (int): when searching all works, maximum number of chunks per work (None for no limit)
 
@@ -159,7 +159,20 @@ def search_chunks(user_query, works=None, n_chunks=8, method="hybrid", max_per_w
 
     # 2. Lexical search: BM25 scores every chunk, rare words of the question count more than common ones
     # BM25 is a ranking function that uses the frequency of a term in a document and the frequency of the term across all documents to rank documents.
-    scores = bm25.get_scores(tokenize(user_query)) # gets a score for every chunk, higher means more relevant
+    query_words = tokenize(user_query)
+    if works:
+        # inside the chosen works, their title and character names are in almost every chunk, so they do not help to rank
+        # them: they are left out to keep the words that say what the question is about ("hate" in "Why does Iago hate Othello?")
+        name_words = []
+        for name, name_works in catalogue["characters"].items():
+            if any(work in works for work in name_works):
+                name_words += tokenize(name)
+        for work in catalogue["works"]:
+            if work["title"] in works:
+                name_words += tokenize(work["short_title"])
+        query_words = [word for word in query_words if word not in name_words]
+        
+    scores = bm25.get_scores(query_words) # gets a score for every chunk, higher means more relevant
     lexical_ids = []
     for position in np.argsort(scores)[::-1]: # positions of the chunks from the best score to the worst
         chunk_id = chunk_ids[position]
@@ -257,14 +270,14 @@ def is_good_neighbour(neighbour_id, meta, used_ids):
     return same_work and same_section
 
 
-def get_context(user_query, works=None, n_chunks=8, neighbours=True):
+def get_context(user_query, works=None, n_chunks=12, neighbours=True):
     """
     Retrieves the most relevant passages and prepares them into a context string, each passage tagged with its work, Act and Scene
 
     Args:
         user_query (str): question asked by the user
         works (list[str]): titles of the works to search in, all works if empty
-        n_chunks (int): Number of chunks to retrieve. Defaults to 8
+        n_chunks (int): Number of chunks to retrieve. Defaults to 12
         neighbours (bool): add the chunks around each retrieved chunk
 
     Returns:
@@ -352,7 +365,7 @@ def call_llm(messages, provider=LM_STUDIO, model=LM_STUDIO_MODEL):
     return answer
 
 
-def get_response(user_query, history=None, model=LM_STUDIO_MODEL, n_chunks=8, works=None, neighbours=True,
+def get_response(user_query, history=None, model=LM_STUDIO_MODEL, n_chunks=12, works=None, neighbours=True,
                  provider=LM_STUDIO):
     """
     Retrieves relevant context from ChromaDB, builds the system prompt, appends conversation history, and calls the LLM (LM Studio or Claude API)

@@ -20,7 +20,7 @@ This RAG project started as an academic group project on the Othello play only. 
 - The play is detected from the titles and character names in the question.
 - Retrieval is a hybrid search (embeddings + BM25), and the chunks around each result are added.
 - The model can run locally in LM Studio or through the Claude API.
-- An evaluation notebook measures each step on 39 test questions. The final version finds the right passage for 24 of them with 8 chunks.
+- An evaluation notebook measures each step on 40 test questions. The final version finds the right passage for 30 of them with 12 chunks.
 
 **A note on AI use:** 
 - The original Othello chatbot was built by hand by the team. 
@@ -95,4 +95,4 @@ streamlit run app.py
 
 ## Evaluation
 
-`rag_evaluation.ipynb` explores the chunks and measures the retrieval on 39 test questions (`data/eval_questions.csv`): how often the passage that answers the question is sent to the LLM, for each step of the pipeline.
+`rag_evaluation.ipynb` explores the chunks and measures the retrieval on 40 test questions (`data/eval_questions.csv`): how often the passage that answers the question is sent to the LLM, for each step of the pipeline.

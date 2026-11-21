@@ -61,7 +61,7 @@ search_choice = st.sidebar.selectbox("Where should I search?", [AUTO, ALL_WORKS]
 st.sidebar.caption("Auto finds the play from the titles and character names in your question.")
 
 # Number of chunks to retrieve from the vector database slider
-n_chunks = st.sidebar.slider("Number of chunks", min_value=3, max_value=20, value=8)
+n_chunks = st.sidebar.slider("Number of chunks", min_value=3, max_value=20, value=12)
 
 # Add the chunks before and after each retrieved chunk, to give the rest of the dialogue
 neighbours = st.sidebar.checkbox("Add the surrounding passages", value=True)
